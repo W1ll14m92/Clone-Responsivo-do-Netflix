@@ -1,0 +1,23 @@
+{
+  "name": "clone-responsivo-do-netflix",
+  "version": "1.0.0",
+  "description": "Recriando a interface do Netflix com CSS, HTML, Javascript e Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/W1ll14m92/Clone-Responsivo-do-Netflix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/W1ll14m92/Clone-Responsivo-do-Netflix/issues"
+  },
+  "homepage": "https://github.com/W1ll14m92/Clone-Responsivo-do-Netflix#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
